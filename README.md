@@ -1,3 +1,4 @@
+![DALL·E 2025-02-25 17 19 06 - A stunning, vibrant black hole in the style of the Rosette Nebula  The black hole should have swirling cosmic clouds with radiant hues of pink, purple_副本](https://github.com/user-attachments/assets/f0cdbbe5-117e-4a84-8b2d-127b943dfa07)
 # Building a decentralized network
 N42 is building a decentralized network that empowers people and reshapes the future, due to challenges of scalability, fairness, and trust in today’s digital age.
 
