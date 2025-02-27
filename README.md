@@ -10,6 +10,7 @@ Revolutionize global digital infrastructure through innovative blockchain techno
 ## N42 Vision
 To become the world's leading blockchain mainnet provider, empowering the decentralized world, exploring the limitless boundaries of intelligent technology, and driving human civilization toward greater equality, efficiency, and intelligence.
 
-<img width="79" alt="n42" src="https://github.com/user-attachments/assets/a2bc83cd-59bc-438b-9a42-cc9fe7b10f96" /> 
+<img width="79" alt="n42" src="https://github.com/user-attachments/assets/a2bc83cd-59bc-438b-9a42-cc9fe7b10f96" />
+
 # N42
 Connecting Everything
